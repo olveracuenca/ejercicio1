@@ -1,1 +1,0 @@
-console.log("jorge alberto olvera cuenca");
